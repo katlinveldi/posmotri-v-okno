@@ -1,2 +1,2 @@
 repo-
-https://github.com/katlinveldi/posmotri-v-okno
+https://github.com/katlinveldi/posmotri_v_okno
